@@ -1,10 +1,11 @@
 <template>
-
+<div>TODO</div>
 </template>
 
 <script>
 export default {
-  name: "Todo"
+  // eslint-disable-next-line vue/multi-word-component-names
+  name: "todo"
 }
 </script>
 
